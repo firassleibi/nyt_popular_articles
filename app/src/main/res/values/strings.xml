@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NYT Popular Articles</string>
+    <string name="api_url">https://api.nytimes.com/svc/mostpopular/v2/mostviewed/</string>
+    <string name="api_key">GMpt00GGIH6EcYfCosCL50CKc7hOvjSW</string>
+</resources>

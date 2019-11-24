@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b0fe6b6ef284cb0c646a42ffa43bb39e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/023966c291dfaac330ce31702b68bff0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/d86e36cb0943bd7260c8cd3dff8060e1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2d03fab4860a5b77d416cd9ff6b17777/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6aa06baa8896e8bb409b5f1963b6c834/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cfb254fb53306f0d41738ae20d08d3e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3d0cc094bf028e458bff3dc3d1883b67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ed8af316cbb8a843489c4dec5c399768/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9ff74f00ba0545349837470fae8eda3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a698a7e354bdbdf054e6c215659b89ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f32adb378e4835ff59c9559ff4dd4112/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3992398df72a416d04a5431d89355736/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f0eacb162e22b20fc6aff3303b49f064/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4d9f8bcfeaf3ce07dc87d7cd122a3110/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e7ce1bafbaf99f8d7eb8c277bf8d0af7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d6f85766e2250fb3e50e060519e2fa2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/260940830cc4ff696b0a55a28ae11480/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/caa55835e3edcbc616387ae9bad9eaf6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bb3ea72fbce307cbb4fd1fbbd523a608/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/64983748621be5b940d0d9cbd425cd5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/14051ea37f614d729636e6cf07fc3279/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2dff902fd7c90e5c3901ea7401f4c296/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/504023bab7334f3b1c10636c7275e321/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ff7526b5c2c36419d1215e82ead29769/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e600c34f9d766ea7125b9d5a080b8aa0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6ede6fd3ade8fc4f84e008285a2b6341/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/14462feeeedb5f05c3220c2a9233916a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b895106d52061e8f4d63f3b051483f2b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/023966c291dfaac330ce31702b68bff0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/023966c291dfaac330ce31702b68bff0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/d86e36cb0943bd7260c8cd3dff8060e1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/d86e36cb0943bd7260c8cd3dff8060e1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/260940830cc4ff696b0a55a28ae11480/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/260940830cc4ff696b0a55a28ae11480/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/caa55835e3edcbc616387ae9bad9eaf6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/caa55835e3edcbc616387ae9bad9eaf6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/260940830cc4ff696b0a55a28ae11480/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:12:9-48
+	android:icon
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.sharjahegov.nytpopulararticles.ArticleActivity
+ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:15:9-62
+	android:name
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:15:19-50
+activity#com.sharjahegov.nytpopulararticles.MainActivity
+ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b0fe6b6ef284cb0c646a42ffa43bb39e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b0fe6b6ef284cb0c646a42ffa43bb39e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/023966c291dfaac330ce31702b68bff0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/023966c291dfaac330ce31702b68bff0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/d86e36cb0943bd7260c8cd3dff8060e1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/d86e36cb0943bd7260c8cd3dff8060e1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2d03fab4860a5b77d416cd9ff6b17777/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2d03fab4860a5b77d416cd9ff6b17777/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6aa06baa8896e8bb409b5f1963b6c834/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6aa06baa8896e8bb409b5f1963b6c834/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cfb254fb53306f0d41738ae20d08d3e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cfb254fb53306f0d41738ae20d08d3e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3d0cc094bf028e458bff3dc3d1883b67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3d0cc094bf028e458bff3dc3d1883b67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ed8af316cbb8a843489c4dec5c399768/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ed8af316cbb8a843489c4dec5c399768/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9ff74f00ba0545349837470fae8eda3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9ff74f00ba0545349837470fae8eda3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a698a7e354bdbdf054e6c215659b89ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a698a7e354bdbdf054e6c215659b89ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f32adb378e4835ff59c9559ff4dd4112/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f32adb378e4835ff59c9559ff4dd4112/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3992398df72a416d04a5431d89355736/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3992398df72a416d04a5431d89355736/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f0eacb162e22b20fc6aff3303b49f064/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f0eacb162e22b20fc6aff3303b49f064/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4d9f8bcfeaf3ce07dc87d7cd122a3110/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4d9f8bcfeaf3ce07dc87d7cd122a3110/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e7ce1bafbaf99f8d7eb8c277bf8d0af7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e7ce1bafbaf99f8d7eb8c277bf8d0af7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d6f85766e2250fb3e50e060519e2fa2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d6f85766e2250fb3e50e060519e2fa2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/260940830cc4ff696b0a55a28ae11480/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/260940830cc4ff696b0a55a28ae11480/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/caa55835e3edcbc616387ae9bad9eaf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/caa55835e3edcbc616387ae9bad9eaf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bb3ea72fbce307cbb4fd1fbbd523a608/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bb3ea72fbce307cbb4fd1fbbd523a608/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/64983748621be5b940d0d9cbd425cd5e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/64983748621be5b940d0d9cbd425cd5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/14051ea37f614d729636e6cf07fc3279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/14051ea37f614d729636e6cf07fc3279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2dff902fd7c90e5c3901ea7401f4c296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2dff902fd7c90e5c3901ea7401f4c296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/504023bab7334f3b1c10636c7275e321/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/504023bab7334f3b1c10636c7275e321/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ff7526b5c2c36419d1215e82ead29769/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ff7526b5c2c36419d1215e82ead29769/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e600c34f9d766ea7125b9d5a080b8aa0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e600c34f9d766ea7125b9d5a080b8aa0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6ede6fd3ade8fc4f84e008285a2b6341/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6ede6fd3ade8fc4f84e008285a2b6341/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/14462feeeedb5f05c3220c2a9233916a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/14462feeeedb5f05c3220c2a9233916a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b895106d52061e8f4d63f3b051483f2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/firassleibi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b895106d52061e8f4d63f3b051483f2b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+		ADDED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/firassleibi/Documents/NYTPopularArticles/app/src/main/AndroidManifest.xml

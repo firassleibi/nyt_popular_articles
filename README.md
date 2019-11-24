@@ -6,12 +6,12 @@ This project loads the most popular articles from New York Times API.
 
 Code could be tested with methods below:
 
-1. ** Direct Install from APK File:**
+1. **Direct Install from APK File:**
 	- Copy the file located at /app/build/outputs/apk/debug/app-debug.apk  to your mobile phone.
 	- Allow install from unkown resources.
 	- Install App.
 
-2. ** Run from Android Studio**
+2. **Run from Android Studio**
 	- Import project with **Android Studio**
 	- Sync the project with gradle.
 	- Wait till all downloads are finished.

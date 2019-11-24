@@ -20,10 +20,10 @@ Code could be tested with methods below:
 
 #### How to run Test:
 A Simple JUNIT Test case has been created, The test checks whether the API Key is correct or wrong by checking the HTTP response code, To run the Test Case:
-    - Open the project in Android Studio
-    - Right Click on the **Com (test)** folder in the Android Pane on the left.
-    - Click on run Tests in COM
-    - The tests will pass. If you want the tests to fail change the API Key in the Strings resources file.
+   - Open the project in Android Studio
+   - Right Click on the **Com (test)** folder in the Android Pane on the left.
+   - Click on run Tests in COM
+   - The tests will pass. If you want the tests to fail change the API Key in the Strings resources file.
 
 
 
